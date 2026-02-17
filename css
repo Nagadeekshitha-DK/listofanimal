@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-card{
+    background-color:black;
+    height:100vh;
+}
+.img-edit{
+    height:160px;
+    width:120px ;
+    border-radius:10px;
+}
+.button-edit{
+    width:120px ;
+    
+}
+.bg-card1{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/animals-turtle-bg.png');
+    height:100vh;
+    background-size: cover;
+}
+.bg-card2{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/animals-raccoon-bg.png');
+    height:100vh;
+    background-size: cover;
+}
+.bg-card3{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/animals-kangaroo-bg.png');
+    height:100vh;
+    background-size: cover;
+}
+.bg-card4{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/animals-lion-bg.png');
+    height:100vh;
+    background-size: cover;
+}
+.p{
+    font-size: 12px;
+    font-family:"Roboto";
+    margin-left:20px;
+}
+.h1{
+    font-size: 25px;
+    font-family:"Roboto";
+     margin-left:20px;
+}
+.button-edit1{
+    width:100px ;
+    margin-left:20px;
+}
